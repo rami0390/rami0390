@@ -1,5 +1,9 @@
 My name is Rami Mosleh.\
 __Rami__
+
+Text that is not a quote
+
+> Text that is a quote
 # Example headings
 
 ## Sample Section
